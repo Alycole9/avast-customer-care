@@ -3,6 +3,12 @@ How to Contact Avast Customer Care: A Complete Guide
 
 Avast is one of the most recognized names in the cybersecurity industry. Known for its powerful antivirus solutions and commitment to digital security, Avast serves millions of users worldwide. However, as with any complex software, users may encounter issues ranging from installation errors to license activation problems. This is where *Avast customer care* steps in to offer dedicated assistance.
 
+.. image:: care.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://getchatsupport.live/
+
 In this guide, we will explore the various aspects of *Avast customer support*, the common issues users face, and how to effectively engage with *Avast customer service* to get timely solutions.
 
 What Is Avast Customer Care?
